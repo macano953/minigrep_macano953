@@ -1,6 +1,6 @@
 [package]
 name = "minigrep_macano953"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Miguel Caño"]
 description = "A fun grep tool written as my first incursion into Rust. Not intended to be inherited and used in production code"
