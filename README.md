@@ -1,5 +1,9 @@
 # minigrep
 
+[![Build status](https://github.com/macano953/minigrep_macano953/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)
+[![Crates.io](https://img.shields.io/crates/v/minigrep_macano953)](https://crates.io/crates/minigrep_macano953)
+[![Documentation](https://docs.rs/minigrep_macano953/badge.svg)](https://docs.rs/minigrep_macano953)
+
 ## Installation
 
 Ensure [Rust](https://doc.rust-lang.org/book/ch01-01-installation.html) is installed.
