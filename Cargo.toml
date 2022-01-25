@@ -1,0 +1,11 @@
+[package]
+name = "minigrep_macano953"
+version = "0.1.0"
+edition = "2021"
+authors = ["Miguel Caño"]
+description = "A fun grep tool written as my first incursion into Rust. Not intended to be inherited and used in production code"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
